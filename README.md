@@ -6,3 +6,4 @@ time I am gonna use these resources:
 - [Learning Rust With Entirely Too Many Linked Lists book](https://rust-unofficial.github.io/too-many-lists/index.html)
 - [rustlings](https://rustlings.rust-lang.org)
 - [Rust by Example book](https://doc.rust-lang.org/rust-by-example/)
+- [100 Exercises To Learn Rust](https://rust-exercises.com/100-exercises/)
